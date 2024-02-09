@@ -52,7 +52,7 @@
 
 ## 🛠️ &nbsp;My Activities
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jccarrey&show_icons=true&locale=en&layout=compact" alt="jccarrey" /></p>
+<p><img align="left" src="https://camo.githubusercontent.com/04220041247aba1…23d7472756526636f756e745f707269766174653d74727565" alt="jccarrey" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jccarrey&show_icons=true&locale=en" alt="jccarrey" /></p>
 
