@@ -50,7 +50,7 @@
 <br>
 <br>
 
-## 🛠️ &nbsp;My Activities
+## 📚 &nbsp;My Activities
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jccarrey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jccarrey" /></p>
 
