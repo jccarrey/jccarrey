@@ -54,10 +54,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jccarrey&show_icons=true&locale=en&layout=compact" alt="jccarrey" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jccarrey&theme=tokyonight" alt="jccarrey" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jccarrey&show_icons=true&locale=en" alt="jccarrey" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jccarrey&" alt="jccarrey" /></p>
 
