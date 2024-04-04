@@ -27,6 +27,7 @@
   - Javascript
   - Web Design (HTML, CSS, WordPress)
   - React JS
+  - Scala-Spark
 
 <br>
 
