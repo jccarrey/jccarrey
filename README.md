@@ -1,5 +1,6 @@
 
-![Recurso 1](https://github.com/jccarrey/jccarrey/assets/157764646/dfd2e5d8-772a-4dbc-ad6a-5e67de284393)
+![banner](https://github.com/jccarrey/jccarrey/assets/157764646/0e0b67d8-d050-4d70-bfb4-4476fc8c930b)
+
 
 
 <div>
